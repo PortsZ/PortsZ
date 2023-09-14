@@ -6,7 +6,7 @@
 
 - 📚 Bachelor's in Computer Engineering
 - 💻 Mastered C, C++, algorithms, and data structures
-- 📘 Specialized topics: compilers, databases
+- 📘 Specialized topics: functional and object-oriented programming, databases
 
 ---
 
