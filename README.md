@@ -1,13 +1,5 @@
 # PortsZ - Overview 
 
-## Introduction 📝
-
-- 👨‍💻 Passionate software developer
-- 🌐 Expertise in React and Next.js
-- 🎨 Strong background in UI/UX design
-
----
-
 ## My Developer Journey 🛤️
 
 ### The Academic Foundation 🎓
@@ -20,16 +12,10 @@
 
 ### The Unexpected Detour 🔄
 
-- 🦠 Covid-19 led to a pivot toward financial markets
+- 🦠 COVID-19 led to a pivot toward financial markets
 - 📈 1.5 years in financial analytics, investments, and trading
-
----
-
-### A Life-Changing Return 🌈
-
-- 🏫 University reopened in 2021
 - 🌐 Added blockchain and cryptocurrencies to my skills
-- 🙏 Lost my father, paused education to support family
+- 🙏 Lost my father, paused education to support my family
 
 ---
 
@@ -37,11 +23,6 @@
 
 - 💼 Freelance programming and investment consulting
 - 📈 Tripled a client's portfolio value in 4 months
-
----
-
-### Coming Full Circle 🔵
-
 - 👨‍💻 Back to coding and application development
 
 ---
