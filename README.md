@@ -7,29 +7,13 @@
 - 📚 Bachelor's in Computer Engineering
 - 💻 Mastered C, C++, algorithms, and data structures
 - 📘 Specialized topics: functional and object-oriented programming, databases
-
----
-
-### The Unexpected Detour 🔄
-
-- 🦠 COVID-19 led to a pivot toward financial markets
-- 📈 1.5 years in financial analytics, investments, and trading
-- 🌐 Added blockchain and cryptocurrencies to my skills
 - 🙏 Lost my father, paused education to support my family
 
----
-
-### Stepping into the Real World 🌍
-
-- 💼 Freelance programming and investment consulting
-- 📈 Tripled a client's portfolio value in 4 months
-- 👨‍💻 Back to coding and application development
-
----
 
 ## Skills and Expertise 🛠️
 
 - 🐍 Python
+- 🏗️ C/C++
 - 🌐 JavaScript/TypeScript
 - ⚛️ Next.js/React.js
 - 🗄️ SQL and NoSQL databases
