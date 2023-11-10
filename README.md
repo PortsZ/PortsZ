@@ -19,17 +19,3 @@
 - 🗄️ SQL and NoSQL databases
 
 ---
-
-## Engineering Background 📐
-
-- 📚 Physics and calculus
-- 🧮 Differential equations, transforms
-- ⚡ Electrical circuits
-
----
-
-## My Superpower 🦸‍♂️
-
-- 🌱 I can learn anything
-
----
